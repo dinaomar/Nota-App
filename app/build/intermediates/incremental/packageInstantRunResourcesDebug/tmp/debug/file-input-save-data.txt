@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Dec 01 14:13:40 PST 2018
+1.base=E\:\\codelab\\Nota1\\app\\build\\intermediates\\assets\\debug
+2.path=fonts/DroidNaskh-Bold.ttf
+0.baseType=DIRECTORY
+2.base=E\:\\codelab\\Nota1\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=fonts/DroidSansArabic.ttf
+0.set=ASSET
+0.base=E\:\\codelab\\Nota1\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=fonts/DroidNaskh-Regular.ttf
