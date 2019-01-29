@@ -1,19 +1,19 @@
 [
     {
-        "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_selected_holo_light.9.png.flat",
-        "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable-xxhdpi\\abc_textfield_search_selected_holo_light.9.png"
-    },
-    {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_ic_menu_share_holo_dark.png.flat",
         "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png"
     },
     {
-        "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
-        "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_textfield_search_selected_holo_light.9.png.flat",
+        "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable-xxhdpi\\abc_textfield_search_selected_holo_light.9.png"
     },
     {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_right_selected_holo_light.9.png.flat",
         "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_textfield_search_selected_holo_dark.9.png.flat",
@@ -186,6 +186,10 @@
     {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_go_search_api_holo_light.png.flat",
         "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable-xxhdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_facebook.png.flat",
+        "source": "E:\\codelab\\Nota1\\app\\src\\main\\res\\drawable\\icon_facebook.png"
     },
     {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_voice_search.png.flat",
@@ -424,6 +428,10 @@
         "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable-xxhdpi\\abc_ic_clear_disabled.png"
     },
     {
+        "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_search.png.flat",
+        "source": "E:\\codelab\\Nota1\\app\\src\\main\\res\\drawable\\icon_search.png"
+    },
+    {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_spinner_ab_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_light.9.png"
     },
@@ -450,6 +458,10 @@
     {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_abc_ic_commit_search_api_holo_light.png.flat",
         "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_nota.png.flat",
+        "source": "E:\\codelab\\Nota1\\app\\src\\main\\res\\drawable\\icon_nota.png"
     },
     {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_menu_hardkey_panel_holo_dark.9.png.flat",
@@ -876,6 +888,10 @@
         "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_nota_notification.png.flat",
+        "source": "E:\\codelab\\Nota1\\app\\src\\main\\res\\drawable\\icon_nota_notification.png"
+    },
+    {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_abc_textfield_search_right_default_holo_light.9.png.flat",
         "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_light.9.png"
     },
@@ -906,6 +922,14 @@
     {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_ic_menu_moreoverflow_normal_holo_light.png.flat",
         "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_divider.png.flat",
+        "source": "E:\\codelab\\Nota1\\app\\src\\main\\res\\drawable\\icon_divider.png"
+    },
+    {
+        "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_delete.png.flat",
+        "source": "E:\\codelab\\Nota1\\app\\src\\main\\res\\drawable\\icon_delete.png"
     },
     {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_voice_search.png.flat",
@@ -1160,6 +1184,10 @@
         "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
     },
     {
+        "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_nota_small.png.flat",
+        "source": "E:\\codelab\\Nota1\\app\\src\\main\\res\\drawable\\icon_nota_small.png"
+    },
+    {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_custom_actionbar.xml.flat",
         "source": "E:\\codelab\\Nota1\\app\\src\\main\\res\\layout\\main_custom_actionbar.xml"
     },
@@ -1394,6 +1422,10 @@
     {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_done.png.flat",
+        "source": "E:\\codelab\\Nota1\\app\\src\\main\\res\\drawable\\icon_done.png"
     },
     {
         "merged": "E:\\codelab\\Nota1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abc_ic_menu_share_holo_light.png.flat",

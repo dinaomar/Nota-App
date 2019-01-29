@@ -979,13 +979,21 @@ public final class R {
     public static final int bg=0x7f060058;
     public static final int ic_launcher=0x7f060059;
     public static final int icon_add=0x7f06005a;
-    public static final int icon_delete2=0x7f06005b;
-    public static final int icon_edit=0x7f06005c;
-    public static final int icon_play=0x7f06005d;
-    public static final int icon_record=0x7f06005e;
-    public static final int icon_share=0x7f06005f;
-    public static final int icon_stop=0x7f060060;
-    public static final int logo=0x7f060061;
+    public static final int icon_delete=0x7f06005b;
+    public static final int icon_delete2=0x7f06005c;
+    public static final int icon_divider=0x7f06005d;
+    public static final int icon_done=0x7f06005e;
+    public static final int icon_edit=0x7f06005f;
+    public static final int icon_facebook=0x7f060060;
+    public static final int icon_nota=0x7f060061;
+    public static final int icon_nota_notification=0x7f060062;
+    public static final int icon_nota_small=0x7f060063;
+    public static final int icon_play=0x7f060064;
+    public static final int icon_record=0x7f060065;
+    public static final int icon_search=0x7f060066;
+    public static final int icon_share=0x7f060067;
+    public static final int icon_stop=0x7f060068;
+    public static final int logo=0x7f060069;
   }
   public static final class id {
     public static final int NoteContent=0x7f070000;
