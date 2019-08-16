@@ -1,23 +1,33 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\codelab\\Nota1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
+            "outputFile": "F:\\MyRepo\\Nota-App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sv\\values-sv.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\d56f4c82ae5d375ce0048cb1392aaef8\\res\\values-sv\\values.xml",
+                    "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\04d63a644ca528d3e1ff11b3801e18fc\\res\\values-sv\\values-sv.xml",
                     "from": {
-                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "278,384,487,598,683,785,898,1004,1104,1200,1305,1407,1509",
-                        "endColumns": "105,102,110,84,101,112,105,99,95,104,101,101,116",
-                        "endOffsets": "379,482,593,678,780,893,999,1099,1195,1300,1402,1504,1621"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,211,314,425,510,612,725,801,877,970,1065,1161,1255,1358,1453,1550,1648,1744,1837,1917,2023,2123,2219,2324,2426,2528,2682,2784",
+                        "endColumns": "105,102,110,84,101,112,75,75,92,94,95,93,102,94,96,97,95,92,79,105,99,95,104,101,101,153,101,78",
+                        "endOffsets": "206,309,420,505,607,720,796,872,965,1060,1156,1250,1353,1448,1545,1643,1739,1832,1912,2018,2118,2214,2319,2421,2523,2677,2779,2858"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\dina\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\0d203440c4cb2094c092178070f4d6df\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,161,264,375,460,562,675,781,881,977,1082,1184,1286",
-                        "endColumns": "105,102,110,84,101,112,105,99,95,104,101,101,116",
-                        "endOffsets": "156,259,370,455,557,670,776,876,972,1077,1179,1281,1398"
+                        "startLines": "30",
+                        "startColumns": "4",
+                        "startOffsets": "2863",
+                        "endColumns": "100",
+                        "endOffsets": "2959"
                     }
                 }
             ]

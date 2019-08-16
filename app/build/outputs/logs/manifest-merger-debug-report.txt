@@ -1,94 +1,178 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:2:1-42:12
-MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\d56f4c82ae5d375ce0048cb1392aaef8\AndroidManifest.xml:16:1-20:12
-INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\04d63a644ca528d3e1ff11b3801e18fc\AndroidManifest.xml:17:1-22:12
+MERGED from [org.koin:koin-android-viewmodel:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-viewmodel-1.0.2.aar\073bca455b3b6f9c1b23416b73b20903\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\d3d351eb8f18b14d1519f1912907cad0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c22937c588e3a2ee1d06b4000d2babfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ff67d489ba9eba1930ef26216e4dbbf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cc1fc5388b3c5711e268f1de5d529dda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bc549320ad2c708976593d6bc40d699b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\54e07cb8603945bbf0bc22091e8b3708\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\69e6fb80bf596a75e8b93872e5695534\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:reactivestreams:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\reactivestreams-1.1.1.aar\7b11d7d9d8c9fd405ce2a90e358abc4b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\de83534bf67ba92a4a88ae245443bbfc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\798c904d465ff522400a0dd6a794bbd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a560cc37bbefe92346849af7e97d2bd5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\307e51107e1536c28b82a3e74ee0bbb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6889925160e279ca5a6fa23490036cbb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e07d5664d028d463f92e141a5aeae4ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a0a686a51b9671b358a67088823d5925\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0125e32a95ac02f154530cc413f8a258\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9918f1a7cdce9dc039617f6992bb1539\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0d203440c4cb2094c092178070f4d6df\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1995edd70ef8cd2aaee28b68af7279d7\AndroidManifest.xml:17:1-22:12
+MERGED from [org.koin:koin-android-scope:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-scope-1.0.2.aar\926dbc92df585aff1f45a20b70a2602f\AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-android:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-1.0.2.aar\a891bd13efadc7ab11d3c7f2e98a68d2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9f88a22e87b58c44a4b478b50c4cbf59\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\74d0b9935c95dfb565b8bf8ad0ed58ff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c30526b9e8a21dfcde128408c486621d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\89a311ccc10c84af067f48be904e6293\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ad74ff621e2d59475809e2ae404474e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9237a8d21b5c6d22977a2417a2bf726a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c102fee1726395f31ba3c954b16622ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e863c14bca1d36d780d424852172a099\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:3:5-31
-		INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml
-		INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:4:5-31
+		INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml
-		INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:3:5-51
 	xmlns:android
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml
-		INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml
-uses-sdk
-ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\d56f4c82ae5d375ce0048cb1392aaef8\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\d56f4c82ae5d375ce0048cb1392aaef8\AndroidManifest.xml:18:5-42
-INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:7:5-9:41
-	android:targetSdkVersion
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml
-		INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml
-	android:minSdkVersion
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:8:9-34
-		INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml
-		INJECTED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:11:5-71
+ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:8:5-71
 	android:name
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:11:22-68
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:8:22-68
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:12:5-81
+ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:12:22-78
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:9:22-78
 application
-ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:14:5-40:19
-MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\d56f4c82ae5d375ce0048cb1392aaef8\AndroidManifest.xml:19:5-20
-MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\d56f4c82ae5d375ce0048cb1392aaef8\AndroidManifest.xml:19:5-20
+ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:11:5-20:19
+MERGED from [org.koin:koin-android-viewmodel:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-viewmodel-1.0.2.aar\073bca455b3b6f9c1b23416b73b20903\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-viewmodel:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-viewmodel-1.0.2.aar\073bca455b3b6f9c1b23416b73b20903\AndroidManifest.xml:7:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\d3d351eb8f18b14d1519f1912907cad0\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\d3d351eb8f18b14d1519f1912907cad0\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0d203440c4cb2094c092178070f4d6df\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0d203440c4cb2094c092178070f4d6df\AndroidManifest.xml:22:5-94
+MERGED from [org.koin:koin-android-scope:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-scope-1.0.2.aar\926dbc92df585aff1f45a20b70a2602f\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-scope:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-scope-1.0.2.aar\926dbc92df585aff1f45a20b70a2602f\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9f88a22e87b58c44a4b478b50c4cbf59\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9f88a22e87b58c44a4b478b50c4cbf59\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0d203440c4cb2094c092178070f4d6df\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:16:9-45
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:13:9-45
 	android:allowBackup
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:18:9-44
-activity#dina.nota.main.MainActivity
-ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:19:9-22:20
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:15:9-44
+activity#dina.nota.app.view.MainActivity
+ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:16:9-19:20
 	android:label
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:21:13-45
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:18:13-45
 	android:name
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:20:13-55
-activity#dina.nota.main.SplashActivity
-ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:23:9-31:20
-	android:label
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:25:13-58
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml:17:13-59
+uses-sdk
+INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\04d63a644ca528d3e1ff11b3801e18fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\04d63a644ca528d3e1ff11b3801e18fc\AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-android-viewmodel:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-viewmodel-1.0.2.aar\073bca455b3b6f9c1b23416b73b20903\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-viewmodel:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-viewmodel-1.0.2.aar\073bca455b3b6f9c1b23416b73b20903\AndroidManifest.xml:5:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\d3d351eb8f18b14d1519f1912907cad0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\d3d351eb8f18b14d1519f1912907cad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c22937c588e3a2ee1d06b4000d2babfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c22937c588e3a2ee1d06b4000d2babfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ff67d489ba9eba1930ef26216e4dbbf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ff67d489ba9eba1930ef26216e4dbbf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cc1fc5388b3c5711e268f1de5d529dda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\cc1fc5388b3c5711e268f1de5d529dda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bc549320ad2c708976593d6bc40d699b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bc549320ad2c708976593d6bc40d699b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\54e07cb8603945bbf0bc22091e8b3708\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\54e07cb8603945bbf0bc22091e8b3708\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\69e6fb80bf596a75e8b93872e5695534\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\69e6fb80bf596a75e8b93872e5695534\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:reactivestreams:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\reactivestreams-1.1.1.aar\7b11d7d9d8c9fd405ce2a90e358abc4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:reactivestreams:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\reactivestreams-1.1.1.aar\7b11d7d9d8c9fd405ce2a90e358abc4b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\de83534bf67ba92a4a88ae245443bbfc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\de83534bf67ba92a4a88ae245443bbfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\798c904d465ff522400a0dd6a794bbd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\798c904d465ff522400a0dd6a794bbd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a560cc37bbefe92346849af7e97d2bd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\a560cc37bbefe92346849af7e97d2bd5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\307e51107e1536c28b82a3e74ee0bbb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\307e51107e1536c28b82a3e74ee0bbb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6889925160e279ca5a6fa23490036cbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\6889925160e279ca5a6fa23490036cbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e07d5664d028d463f92e141a5aeae4ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e07d5664d028d463f92e141a5aeae4ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a0a686a51b9671b358a67088823d5925\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a0a686a51b9671b358a67088823d5925\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0125e32a95ac02f154530cc413f8a258\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\0125e32a95ac02f154530cc413f8a258\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9918f1a7cdce9dc039617f6992bb1539\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\9918f1a7cdce9dc039617f6992bb1539\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0d203440c4cb2094c092178070f4d6df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0d203440c4cb2094c092178070f4d6df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1995edd70ef8cd2aaee28b68af7279d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\1995edd70ef8cd2aaee28b68af7279d7\AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-android-scope:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-scope-1.0.2.aar\926dbc92df585aff1f45a20b70a2602f\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-scope:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-scope-1.0.2.aar\926dbc92df585aff1f45a20b70a2602f\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-1.0.2.aar\a891bd13efadc7ab11d3c7f2e98a68d2\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:1.0.2] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\koin-android-1.0.2.aar\a891bd13efadc7ab11d3c7f2e98a68d2\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9f88a22e87b58c44a4b478b50c4cbf59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9f88a22e87b58c44a4b478b50c4cbf59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\74d0b9935c95dfb565b8bf8ad0ed58ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\74d0b9935c95dfb565b8bf8ad0ed58ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c30526b9e8a21dfcde128408c486621d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\c30526b9e8a21dfcde128408c486621d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\89a311ccc10c84af067f48be904e6293\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\89a311ccc10c84af067f48be904e6293\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ad74ff621e2d59475809e2ae404474e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ad74ff621e2d59475809e2ae404474e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9237a8d21b5c6d22977a2417a2bf726a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9237a8d21b5c6d22977a2417a2bf726a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c102fee1726395f31ba3c954b16622ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\c102fee1726395f31ba3c954b16622ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e863c14bca1d36d780d424852172a099\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\e863c14bca1d36d780d424852172a099\AndroidManifest.xml:20:5-44
+INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+		ADDED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyRepo\Nota-App\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\d3d351eb8f18b14d1519f1912907cad0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\d3d351eb8f18b14d1519f1912907cad0\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\d3d351eb8f18b14d1519f1912907cad0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\d3d351eb8f18b14d1519f1912907cad0\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:24:13-57
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:26:13-30:29
-action#android.intent.action.MAIN
-ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:27:17-69
-	android:name
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:27:25-66
-category#android.intent.category.LAUNCHER
-ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:29:17-77
-	android:name
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:29:27-74
-activity#dina.nota.main.AddNewNote
-ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:32:9-35:20
-	android:label
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:34:13-45
-	android:name
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:33:13-53
-activity#dina.nota.main.SingleNoteView
-ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:36:9-39:20
-	android:label
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:38:13-45
-	android:name
-		ADDED from E:\codelab\Nota1\app\src\main\AndroidManifest.xml:37:13-57
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\dina\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\d3d351eb8f18b14d1519f1912907cad0\AndroidManifest.xml:24:13-83
