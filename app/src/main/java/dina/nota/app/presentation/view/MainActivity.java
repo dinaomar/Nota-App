@@ -1,8 +1,9 @@
-package dina.nota.app.view;
+package dina.nota.app.presentation.view;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.nota.R;
 
